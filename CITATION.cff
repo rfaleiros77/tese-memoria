@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: >-
+  How One Coding Agent Learned from Its Own Mistakes: A 120-Day Case Study of
+  Capture, Retrieval and Memory Drift
+message: If you refer to this work, please cite it as below.
+type: dataset
+authors:
+  - family-names: Faleiros
+    given-names: Rogerio
+    affiliation: RFERP LLC
+repository-code: https://github.com/rfaleiros77/tese-memoria
+abstract: >-
+  A case study of how a single coding agent recorded and retrieved lessons from
+  its own errors across a 120-day working corpus. Reports a hypothesis that was
+  falsified by the corpus itself, the retrieval failure that replaced it, and a
+  method derived from the case. Code under MIT; prose under CC BY 4.0.
+keywords:
+  - agent memory
+  - lessons learned
+  - retrieval
+  - case study
+  - large language models
+license: CC-BY-4.0
+date-released: '2026-08-24'
